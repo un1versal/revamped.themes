@@ -3,7 +3,7 @@ ECHO ----------------------------------------
 echo Creating excludes
 
 Echo .svn>exclude.txt
-Echo .git>exclude.txt
+Echo .git>>exclude.txt
 Echo Thumbs.db>>exclude.txt
 Echo Desktop.ini>>exclude.txt
 Echo dsstdfx.bin>>exclude.txt
