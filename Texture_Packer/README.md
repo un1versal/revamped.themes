@@ -1,4 +1,4 @@
-######TexturePacker
+###TexturePacker
 
 Instructions for use
 
