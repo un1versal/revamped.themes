@@ -1,4 +1,4 @@
-##PSD Sources
+##PSD_Sources
 
 Includes PSD Sources with vectors for all improvements and fixes to confluence skin.
 See https://github.com/xbmc/xbmc/pull/2517
