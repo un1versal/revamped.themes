@@ -8,7 +8,7 @@ This usually happens when new graphics are needed and they are added done using 
 
 This has all the Texture Packer and all required +updated dll's
 
-###PSD_Sources
+###PSD_Sources-Revamp
 
 Includes PSD Sources with vectors for all improvements and fixes to confluence skin.
 See https://github.com/xbmc/xbmc/pull/2517
@@ -19,6 +19,10 @@ Derivative work or source usage [click here to make a notification or submit a c
 If you modify/improve/add-to/change these PSD it would be nice if you submit a PR (pull request) back.
 
 Enjoy.
+
+###Downloading sources and texture packer
+
+See https://github.com/uNiversaI/confluence-psds or https://github.com/da-anda/confluence-psds
 
 ```
    ___   ___  __         ____  
