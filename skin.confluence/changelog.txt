@@ -1,3 +1,47 @@
+[B]2.2.6[/B]
+
+- Updated language files from Transifex
+
+[B]2.2.5[/B]
+
+- Updated language files from Transifex
+
+[B]2.2.4[/B]
+
+- Updated language files from Transifex
+
+[B]2.2.3[/B]
+
+- Updated language files from Transifex
+
+[B]2.2.2[/B]
+
+- Updated language files from Transifex
+
+[B]2.2.1[/B]
+
+- Updated language files from Transifex
+
+[B]2.2.0[/B]
+- Set minimum GUI version to 5.0.0
+- Adjusted to Gotham code changes
+
+[B]2.1.7[/B]
+
+- Updated language files from Transifex
+
+[B]2.1.6[/B]
+
+- Updated language files from Transifex
+
+[B]2.1.5[/B]
+
+- Updated language files from Transifex
+
+[B]2.1.4[/B]
+
+- Updated language files from Transifex
+
 [B]2.1.3[/B]
 
 - Updated language files from Transifex
