@@ -22,7 +22,9 @@ Enjoy.
 
 ###Downloading sources and texture packer
 
-See https://github.com/uNiversaI/confluence-psds or https://github.com/da-anda/confluence-psds
+Psd Sources https://github.com/uNiversaI/confluence-psds or https://github.com/da-anda/confluence-psds
+
+Texture packer https://github.com/uNiversaI/skin.confluence/tree/texture_packer
 
 ```
    ___   ___  __         ____  
