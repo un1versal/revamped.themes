@@ -196,17 +196,17 @@
 			<control type="image">
 				<left>268</left>
 				<top>10</top>
-				<width>804</width>
-				<height>40</height>
+				<width>790</width>
+				<height>52</height>
 				<texture>dialogheader.png</texture>
 			</control>
 			<control type="label">
 				<description>header label</description>
 				<left>300</left>
-				<top>13</top>
-				<width>740</width>
+				<top>20</top>
+				<width>726</width>
 				<height>30</height>
-				<font>font13_title</font>
+				<font>font16</font>
 				<label>$LOCALIZE[20077] - $INFO[Container(9000).ListItem.Label]</label>
 				<align>center</align>
 				<aligny>center</aligny>
