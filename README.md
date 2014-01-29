@@ -1,8 +1,19 @@
-##Confluence Skin For XBMC
+##Confluence Revamp Skin For XBMC
 
 This is the Default skin for XBMC, with some Texture fixes and color matching.
 This fixes pixelated images, precision issues (half pixels), color matching (using Confluence Blue #0084ff, elements alignments/centering and sizing.
 This usually happens when new graphics are needed and they are added done using raster resources which are often resized and various people add new graphics with no access to psd sources.
+
+##Changes
+
+*  Improves 100% of Textures quality in OSD (not in default skin)
+*  Refreshed Icon (part default skin)
+*  All Header textures now match (part default skin)
+*  All Header Labels now also match. (part default skin)
+*  Better color matching (not in default skin)
+*  Changed progress and scroll bars to match (not in default skin)
+*  Refresh /background settings.jpg (not in default skin)
+
 
 ###Texture_Packer
 
