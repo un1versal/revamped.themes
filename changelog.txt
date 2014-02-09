@@ -1,6 +1,11 @@
+[B]2.2.8[/B]
+
+- Updated language files from Transifex
+
 [B]2.2.7[/B]
 
 - Updated language files from Transifex
+- Refresh settings.jpg
 
 [B]2.2.6[/B]
 
