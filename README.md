@@ -1,28 +1,36 @@
-##Confluence Skin For XBMC
+## Revamp skin theme for Confluence 
 
-This is the Default skin for XBMC, with some Texture fixes and color matching.
-This fixes pixelated images, precision issues (half pixels), color matching (using Confluence Blue #0084ff, elements alignments/centering and sizing.
-This usually happens when new graphics are needed and they are added done using raster resources which are often resized and various people add new graphics with no access to psd sources.
+Revamp is a skin theme for default Confluence skin used in XBMC, it sports Texture fixes which result in crisper graphics and better color matching.
 
-###Texture_Packer
+* New progress bar look
+* New osd textures with color matching
+* New settings.jpg in background folder.
 
-This has all the Texture Packer and all required +updated dll's
 
-###PSD_Sources-Revamp
+### PSD_Sources-Revamp
 
-Includes PSD Sources with vectors for all improvements and fixes to confluence skin.
-See https://github.com/xbmc/xbmc/pull/2517
+The PSD Sources with vectors and improvements/fixes for the revamp theme are provided as well
 
-These PSD sources including image changes are GPLv2 licence compatible with XBMC licence and if you use them in your project or derivative works please let me know.
-Derivative work or source usage [click here to make a notification or submit a comment, give some feedback, etc.](https://github.com/uNiversaI/skin.confluence/issues "Title")
+### Licencing
 
-If you modify/improve/add-to/change these PSD it would be nice if you submit a PR (pull request) back.
+These PSD sources are GPLv2, compatible with XBMC licence
+
+### Derivative works
+
+If you use them in your project or derivative works it would be nice to see what you have done as a result of this work.
+
+For issues, discussions, comments or feedback [please click here](https://github.com/uNiversaI/skin.confluence/issues)
 
 Enjoy.
 
+### Contributing
+
+I would be honoured and extremely thankful if you decided to submit PR back for the improvements and changes you make or new PSD's you make yourself.
+PR's (pull-requests) should be submitted to https://github.com/uNiversaI/confluence-psds
+
 ###Downloading sources and texture packer
 
-Psd Sources https://github.com/uNiversaI/confluence-psds or https://github.com/da-anda/confluence-psds
+Psd Sources https://github.com/uNiversaI/confluence-psds
 
 Texture packer https://github.com/uNiversaI/skin.confluence/tree/texture_packer
 
