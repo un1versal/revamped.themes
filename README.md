@@ -14,28 +14,28 @@ This usually happens when new graphics are needed and they are added done using 
 *  Changed progress and scroll bars to match (not in default skin)
 *  Refresh /background settings.jpg (not in default skin)
 
+### Licensing
 
-###Texture_Packer
+These PSD sources are GPLv2, compatible with XBMC licence
 
-This has all the Texture Packer and all required +updated dll's
+### Derivative works
 
-###PSD_Sources-Revamp
+If you use them in your project or derivative works it would be nice to see what you have done as a result of this work.
 
-Includes PSD Sources with vectors for all improvements and fixes to confluence skin.
-See https://github.com/xbmc/xbmc/pull/2517
-
-These PSD sources including image changes are GPLv2 licence compatible with XBMC licence and if you use them in your project or derivative works please let me know.
-Derivative work or source usage [click here to make a notification or submit a comment, give some feedback, etc.](https://github.com/uNiversaI/skin.confluence/issues "Title")
-
-If you modify/improve/add-to/change these PSD it would be nice if you submit a PR (pull request) back.
+For issues, discussions, comments or feedback [please click here](https://github.com/uNiversaI/skin.confluence/issues)
 
 Enjoy.
 
+### Contributing
+
+I would be honoured and extremely thankful if you decided to submit PR back for the improvements and changes you make or new PSD's you make yourself.
+PR's (pull-requests) should be submitted to this Tree.
+
 ###Downloading sources and texture packer
 
-Psd Sources https://github.com/uNiversaI/confluence-psds or https://github.com/da-anda/confluence-psds
+To download Psd Sources [Click here] (https://github.com/uNiversaI/revamp-confluence-psds)
 
-Texture packer https://github.com/uNiversaI/skin.confluence/tree/texture_packer
+To download Texture packer [Click here] (https://github.com/uNiversaI/skin.confluence/tree/texture_packer)
 
 ```
    ___   ___  __         ____  
