@@ -13,6 +13,7 @@ This usually happens when new graphics are needed and they are added done using 
 *  Better color matching (not in default skin)
 *  Changed progress and scroll bars to match (not in default skin)
 *  Refresh /background settings.jpg (not in default skin)
+*  Refresh Default HDD Icons (not in Default skin
 
 ### Licensing
 
