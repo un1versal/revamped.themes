@@ -2,7 +2,7 @@
 
 This is a theme for the default skin confluence for Kodi.
 The idea behind this theme is to update some images to improve the overall "feel" to and fix pixelated images, precision issues (half pixels), color matching, elements alignments/centering and sizing.
-It was originally intended to be a full replacement for the default textures, but as it happens it turned up it was simpleer to make it a theme.
+It was originally intended to be a full replacement for the default textures, but as it happens it turned up it was simpler to make it a theme.
 
 #### What should I expect to see changed.
 
