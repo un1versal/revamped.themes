@@ -4,7 +4,7 @@ This is a theme for the default skin confluence for Kodi.
 The idea behind this theme is to update some images to improve the overall "feel" to and fix pixelated images, precision issues (half pixels), color matching, elements alignments/centering and sizing.
 It was originally intended to be a full replacement for the default textures, but as it happens it turned up it was simpler to make it a theme.
 
-#### What should I expect to see changed.
+#### What should I expect to see changed. 
 
 Most changes are subtle however they are as follows. (some have beem merged into main skin)
 
@@ -20,7 +20,7 @@ New HDD icons | :x:
 Refreshed Kay icons error/warning/information | :x:
 Refreshed sublang/audiolang flags | :x:
 
-#### On todo list 
+#### On todo list
 - [ ] Refresh folder icons
 - [ ] refresh playlists and other icons
 - [ ] Color variations
