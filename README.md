@@ -10,15 +10,15 @@ Most changes are subtle however they are as follows. (some have beem merged into
 
 Changes | Change is part of default skin 
 :----|:---:
-OSD Buttons textures revamp and refresh | no 
-Refreshed skin Icon | yes
-Header textures matching | yes
-Header labels matching | yes
-Progress/scroll bars/Volume bar | no
-New background/Settings.jpg | yes
-New HDD icons | no
-Refreshed Kay icons error/warning/information | no
-Refreshed sublang/audiolang flags | no
+OSD Buttons textures revamp and refresh | :x:
+Refreshed skin Icon | :heavy_check_mark:
+Header textures matching | :heavy_check_mark:
+Header labels matching | :heavy_check_mark:
+Progress/scroll bars/Volume bar | :x:
+New background/Settings.jpg | :heavy_check_mark:
+New HDD icons | :x:
+Refreshed Kay icons error/warning/information | :x:
+Refreshed sublang/audiolang flags | :x:
 
 #### On todo list 
 - [ ] Refresh folder icons
