@@ -10,15 +10,16 @@ Most changes are subtle however they are as follows. (some have beem merged into
 
 Changes | Change is part of default skin 
 :----|:---:
-OSD Buttons textures revamp and refresh | :x:
 Refreshed skin Icon | :heavy_check_mark:
 Header textures matching | :heavy_check_mark:
 Header labels matching | :heavy_check_mark:
-Progress/scroll bars/Volume bar | :x:
 New background/Settings.jpg | :heavy_check_mark:
+New Audio/video flags (hevc/h265, vp9, opus audio) | :heavy_check_mark:
 New HDD icons | :x:
 Refreshed Kay icons error/warning/information | :x:
 Refreshed sublang/audiolang flags | :x:
+Refreshed Progress/scroll bars/Volume bar | :x:
+OSD Buttons textures revamp and refresh | :x:
 
 #### On todo list
 - [ ] Refresh folder icons
