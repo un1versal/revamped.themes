@@ -14,7 +14,7 @@ Echo exclude.txt>>exclude.txt
 ECHO ----------------------------------------
 ECHO Creating XBT File...
 
-START /B /WAIT TexturePacker -dupecheck -input media\ -output media\Textures.xbt
+START /B /WAIT TexturePacker -dupecheck -input media\ -output media\Revamp.xbt
 
 del exclude.txt
 
