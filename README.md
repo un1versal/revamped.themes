@@ -16,6 +16,7 @@ Header labels matching | :heavy_check_mark:
 New background/Settings.jpg | :heavy_check_mark:
 New Audio/video flags (hevc/h265, vp9, opus audio) | :heavy_check_mark:
 New HDD icons | :x:
+Refreshed HDD icons | :x:
 Refreshed Kay icons error/warning/information | :x:
 Refreshed sublang/audiolang flags | :x:
 Refreshed Progress/scroll bars/Volume bar | :x:
