@@ -18,14 +18,16 @@ New Audio/video flags (hevc/h265, vp9, opus audio) | :heavy_check_mark:
 New HDD icons | :x:
 New skin background | :x:
 Refreshed HDD icons | :x:
+Refreshed folder icons | :x:
+Refreshed playlist/passport audio icons | :x:
 Refreshed Kay icons error/warning/information | :x:
 Refreshed sublang/audiolang flags | :x:
 Refreshed Progress/scroll bars/Volume bar | :x:
 OSD Buttons textures revamp and refresh | :x:
 
 #### On todo list
-- [ ] refresh folder icons
-- [ ] refresh playlists and other icons
+- [x] refresh folder icons
+- [x] refresh playlists and other icons
 - [ ] color variations
 
 #### Downloading and installing thmes
