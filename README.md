@@ -1,18 +1,27 @@
-###TexturePacker
+#### TexturePacker for Kodi
 
-Instructions for use
+This is a self contained executable, no dll dependencies required to run.
 
-1. Place any modified textures inside the media folder using the same folder layout as in the original
+---
+
+##### Instructions for use
+
+1. Place any textures resources (*.png, *.jpg, *.gif) inside the media folder using the expected folder structure as skin.
+**e.g.**
 ```
 media\background.png
 media\list\listfocus.png
 ```
-2. Change path inside TexturePacker-Build.bat to match your \media\path
+2. Edit path in texturePacker-build.bat to match your ```\media\path``` and change the output name for the ```<filename>.xbt``` you wish.
+3. Double click the TexturePacker-Build.bat to run the TexturePacker.exe check if no errors occurred.
 
-3. Double click the TexturePacker-Build.bat to run the TexturePacker
+---
+:ledger: For themes you can include a color.xml and a wallpaper.jpg named same as the <filename>.xbt in these paths.
+```
+someskin.here\backgrounds\mytheme.jpg
+someskin.here\colors\mytheme.xml
+someskin.here\colors\mytheme.xml
+```
+ 
+Place the resulting <filename>.xbt and other files as above and change the theme via Settings > Appearance > Skin
 
-4. TexturePacker will automatically check for any dupes and link them
-
-5. The completed textures.xbt must then be renamed the same as your colour XML
-
-6. Place the final XBT file in the skins media folder and change the theme via the Appearance settings
