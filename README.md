@@ -46,7 +46,7 @@ I would be honoured and extremely thankful if you decided to submit PR back for 
 PR's (pull-requests) should be submitted to this Tree.
 
 #### Notes
-Nothing is overwritten in the default skin. This is fully and immediatly reversible should you not like the changes.
+Nothing is overwritten in the default skin. This is fully and immediately reversible should you not like the changes.
 For systems like android/similar you will need to have a way to write to system folders. i.e. root
 
 #### Recruiting
