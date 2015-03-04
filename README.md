@@ -8,31 +8,31 @@ It was originally intended to be a full replacement for the default textures, bu
 
 Most changes are subtle however they are as follows. (some have beem merged into main skin)
 
-Changes | Change is part of default skin 
-:----|:---:
-Refreshed skin Icon | :heavy_check_mark:
-Header textures matching | :heavy_check_mark:
-Header labels matching | :heavy_check_mark:
-New background/Settings.jpg | :heavy_check_mark:
-New Audio/video flags (hevc/h265, vp9, opus audio) | :heavy_check_mark:
-New HDD icons | :x:
-New skin background | :x:
-Refreshed HDD icons | :x:
-Refreshed folder icons | :x:
-Refreshed playlist/passport audio icons | :x:
-Refreshed Kay icons error/warning/information | :x:
-Refreshed sublang/audiolang flags | :x:
-Refreshed Progress/scroll bars/Volume bar | :x:
-OSD Buttons textures revamp and refresh | :x:
+Changes | Part of default skin | Part of theme 
+:----|:---:|:---:
+Refreshed skin Icon | :heavy_check_mark: | :heavy_check_mark:
+Header textures matching | :heavy_check_mark: | :heavy_check_mark:
+Header labels matching | :heavy_check_mark: | :heavy_check_mark:
+New background/Settings.jpg | :heavy_check_mark: | :heavy_check_mark:
+New Audio/video flags (hevc/h265, vp9, opus audio) | :heavy_check_mark: | :heavy_check_mark:
+New HDD icons | :x: | :heavy_check_mark:
+New skin background | :x: | :heavy_check_mark:
+Refreshed HDD icons | :x: | :heavy_check_mark:
+Refreshed folder icons | :x: | :heavy_check_mark:
+Refreshed playlist/passport audio icons | :x: | :heavy_check_mark:
+Refreshed Kay icons error/warning/information | :x: | :heavy_check_mark:
+Refreshed sublang/audiolang flags | :x: | :heavy_check_mark:
+Refreshed Progress/scroll bars/Volume bar | :x: | :heavy_check_mark:
+OSD Buttons textures revamp and refresh | :x: | :heavy_check_mark:
 
 #### On todo list
 - [x] refresh folder icons
 - [x] refresh playlists and other icons
 - [ ] color variations
 
-#### Downloading and installing thmes
+#### Downloading and installing themes
 
-To Download theme see the intructions on release page [Click here] (https://github.com/uNiversaI/skin.confluence/releases) to go there.
+To Download theme see the instructions on release page [Click here] (https://github.com/uNiversaI/skin.confluence/releases) to go there.
 
 #### Derivative works
 
