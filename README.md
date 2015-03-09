@@ -1,20 +1,21 @@
-##Confluence Revamp theme for Kodi
+##Confluence Revamped themes for Kodi
 
-This is a theme for the default skin confluence for Kodi.
-The idea behind this theme is to update some images to improve the overall "feel" to and fix pixelated images, precision issues (half pixels), color matching, elements alignments/centering and sizing.
+These are themes for the default skin Confluence for Kodi.
+The idea behind this theme is to update the images to improve the overall "feel" and to fix pixelated images, precision issues (half pixels), color matching, elements alignments/centering and sizing.
 It was originally intended to be a full replacement for the default textures, but as it happens it turned up it was simpler to make it a theme.
 
 #### What should you expect to see changed. 
 
 Most changes are subtle however they are as follows. (some have beem merged into main skin)
 
-Changes | Part of default skin | Part of theme 
+Changes | Part of default skin | Part of themes 
 :----|:---:|:---:
 Refreshed skin Icon | :heavy_check_mark: | :heavy_check_mark:
 Header textures matching | :heavy_check_mark: | :heavy_check_mark:
 Header labels matching | :heavy_check_mark: | :heavy_check_mark:
 New background/Settings.jpg | :heavy_check_mark: | :heavy_check_mark:
 New Audio/video flags (hevc/h265, vp9, opus audio) | :heavy_check_mark: | :heavy_check_mark:
+New DefaultAddonLanguage icon | :x: | :heavy_check_mark:
 New HDD icons | :x: | :heavy_check_mark:
 New skin background | :x: | :heavy_check_mark:
 Refreshed HDD icons | :x: | :heavy_check_mark:
@@ -28,7 +29,8 @@ OSD Buttons textures revamp and refresh | :x: | :heavy_check_mark:
 #### On todo list
 - [x] refresh folder icons
 - [x] refresh playlists and other icons
-- [ ] color variations
+- [x] color variations
+- [ ] colorized versions (green/orange/etc)
 
 #### Downloading and installing themes
 
