@@ -16,6 +16,7 @@ Header labels matching | :heavy_check_mark: | :heavy_check_mark:
 New background/Settings.jpg | :heavy_check_mark: | :heavy_check_mark:
 New Audio/video flags (hevc/h265, vp9, opus audio) | :heavy_check_mark: | :heavy_check_mark:
 New DefaultAddonLanguage icon | :x: | :heavy_check_mark:
+New MovieSet flag | :heavy_check_mark: | :heavy_check_mark:
 New HDD icons | :x: | :heavy_check_mark:
 New skin background | :x: | :heavy_check_mark:
 Refreshed HDD icons | :x: | :heavy_check_mark:
@@ -29,8 +30,10 @@ OSD Buttons textures revamp and refresh | :x: | :heavy_check_mark:
 #### On todo list
 - [x] refresh folder icons
 - [x] refresh playlists and other icons
-- [x] color variations
-- [ ] colorized versions (green/orange/etc)
+- [x] color shade variations
+- [x] refresh focus and other buttons
+- [ ] refresh flagging graphics
+- [ ] color versions (green/orange/etc)
 
 #### Downloading and installing themes
 
