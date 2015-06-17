@@ -14,25 +14,27 @@ Refreshed skin Icon | :heavy_check_mark: | :heavy_check_mark:
 Header textures matching | :heavy_check_mark: | :heavy_check_mark:
 Header labels matching | :heavy_check_mark: | :heavy_check_mark:
 New background/Settings.jpg | :heavy_check_mark: | :heavy_check_mark:
-New Audio/video flags (hevc/h265, vp9, opus audio) | :heavy_check_mark: | :heavy_check_mark:
-New DefaultAddonLanguage icon | :x: | :heavy_check_mark:
+New Audio/video flags (h265 -hevc/hev1/hvc1, vp9, opus audio) | :heavy_check_mark: | :heavy_check_mark:
 New MovieSet flag | :heavy_check_mark: | :heavy_check_mark:
+New DefaultAddonLanguage icon | :x: | :heavy_check_mark:
+New OSD FF/RW controls | :x: | :heavy_check_mark:
+New Flagging Icons | :x: | :heavy_check_mark:
 New HDD icons | :x: | :heavy_check_mark:
 New skin background | :x: | :heavy_check_mark:
-Refreshed HDD icons | :x: | :heavy_check_mark:
+New HDD icons | :x: | :heavy_check_mark:
+New playlist/passport audio icons | :x: | :heavy_check_mark:
 Refreshed folder icons | :x: | :heavy_check_mark:
-Refreshed playlist/passport audio icons | :x: | :heavy_check_mark:
 Refreshed Kay icons error/warning/information | :x: | :heavy_check_mark:
 Refreshed sublang/audiolang flags | :x: | :heavy_check_mark:
 Refreshed Progress/scroll bars/Volume bar | :x: | :heavy_check_mark:
-OSD Buttons textures revamp and refresh | :x: | :heavy_check_mark:
+Refreshed OSD controls buttons | :x: | :heavy_check_mark:
 
 #### On todo list
 - [x] refresh folder icons
 - [x] refresh playlists and other icons
 - [x] color shade variations
 - [x] refresh focus and other buttons
-- [ ] refresh flagging graphics
+- [x] refresh flagging graphics
 - [ ] color versions (green/orange/etc)
 
 #### Downloading and installing themes
