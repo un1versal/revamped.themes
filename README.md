@@ -12,7 +12,7 @@ Not a detailed list, though you can see a quick comparison of whats been done so
 
 Changes | Part of default skin | Part of themes 
 :----|:---:|:---:
-Refreshed skin icon | :heavy_check_mark: | :heavy_check_mark:
+Refreshed skin icon  | :heavy_check_mark: | :heavy_check_mark:
 Header textures matching | :heavy_check_mark: | :heavy_check_mark:
 Header labels matching | :heavy_check_mark: | :heavy_check_mark:
 New background/Settings.jpg | :heavy_check_mark: | :heavy_check_mark:
@@ -20,6 +20,7 @@ New MovieSet flag | :heavy_check_mark: | :heavy_check_mark:
 New audio/video flags (h265 hevc/hev1/hvc1, vp9, opus) | :heavy_check_mark: | :heavy_check_mark:
 New audio/video flags (m2ts, hdmv, mpeg4) | :x: | :heavy_check_mark:
 New DefaultAddonLanguage icon | :x: | :heavy_check_mark:
+New OSDBookmarks | :x: | :heavy_check_mark:
 New OSD FF/RW controls | :x: | :heavy_check_mark:
 New flagging icons | :x: | :heavy_check_mark:
 New HDD icons | :x: | :heavy_check_mark:
