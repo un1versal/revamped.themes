@@ -1,4 +1,4 @@
-##Confluence Revamp / Revamped themes for Kodi
+##Confluence Revamp'ed themes for Kodi
 
 These are themes for the default skin Confluence for Kodi.
 The idea behind this theme is to update the images while improving the overall "look & feel" a job that was started to fix pixelated images, precision issues (half pixels), colour matching, elements alignments/centering and sizing.
@@ -73,7 +73,11 @@ Currently looking for some person(s) to help with small C++/python/skin improvem
 
 - [**Click here**] (https://github.com/uNiversaI/skin.confluence/releases) to download theme and see the instructions on release page     
 - [**Click here**] (https://github.com/uNiversaI/revamp-confluence-psds "Download PSD Sources") to download PSD sources     
-- [**Click here**] (https://github.com/uNiversaI/skin.confluence/tree/texture_packer "Download Texture Packer") to download Texture packer 
+- [**Click here**] (https://github.com/uNiversaI/skin.confluence/tree/texture_packer "Download Texture Packer") to download Texture packer
+
+###### Automatic donwloader and installer for Linux
+
+- [**Click here**] (https://gist.github.com/uNiversaI/f00474cae9c16d3f1a51 "Revamp'ed theme downloader") To visit the Github Gist page for the script.
 
 #### Licensing
 
