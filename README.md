@@ -77,7 +77,7 @@ Currently looking for some person(s) to help with small C++/python/skin improvem
 
 ###### Automatic donwloader and installer for Linux
 
-- [**Click here**] (https://gist.github.com/uNiversaI/f00474cae9c16d3f1a51 "Revamp'ed theme downloader") To visit the Github Gist page for the script.
+- [**Click here**] (https://gist.github.com/uNiversaI/f00474cae9c16d3f1a51 "Revamp'ed theme downloader") To visit the Github Gist page for the script and download latest version.
 
 #### Licensing
 
