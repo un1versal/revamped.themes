@@ -75,7 +75,7 @@ Currently looking for some person(s) to help with small C++/python/skin improvem
 - [**Click here**] (https://github.com/uNiversaI/revamp-confluence-psds "Download PSD Sources") to download PSD sources     
 - [**Click here**] (https://github.com/uNiversaI/skin.confluence/tree/texture_packer "Download Texture Packer") to download Texture packer
 
-###### Automatic donwloader and installer for Linux
+###### Automatic downloader and installer for Linux
 
 - [**Click here**] (https://gist.github.com/uNiversaI/f00474cae9c16d3f1a51 "Revamp'ed theme downloader") To visit the Github Gist page for the script and download latest version.
 
