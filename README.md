@@ -1,6 +1,8 @@
 #### TexturePacker for Kodi
+This is the latest official Texturepacker.exe, it is offered here as a service to Revamp/Revamped theme users.
+It's a self contained executable, no dll dependencies required to run.
 
-This is a self contained executable, no dll dependencies required to run.
+If you rather download this tool directly please goto **[mirrors.kodi.tv](ttp://mirrors.kodi.tv/build-deps/win32/ "kodi.tv mirrors")** and find the **texturepacker-1.0.X-win32.7z** version you prefer.
 
 ---
 
