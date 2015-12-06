@@ -1,16 +1,16 @@
 ##Confluence Revamp'ed themes for Kodi
 
-These are themes for the default skin Confluence for Kodi.
+These are themes for the default skin Confluence for Kodi for v16 and lower only.
 The idea behind this theme is to update the images while improving the overall "look & feel" a job that was started to fix pixelated images, precision issues (half pixels), colour matching, elements alignments/centering and sizing.
 
-It was originally intended to be a full replacement for the default theme, but as it happens it turned up it was simpler to make it a theme.  
+It was originally intended to be a full replacement for the default theme, but as it happens it turned up it was simpler to make it a theme.
 
-#### What should you expect to see changed. 
+#### What should you expect to see changed.
 
-While some changes are subtle there are many complete redesigns.    
+While some changes are subtle there are many complete redesigns.
 Not a detailed list, though you can see a quick comparison of whats been done so far.
 
-Changes | Part of default skin | Part of themes 
+Changes | Part of default skin | Part of themes
 :----|:---:|:---:
 Refreshed skin icon  | :heavy_check_mark: | :heavy_check_mark:
 Header textures matching | :heavy_check_mark: | :heavy_check_mark:
@@ -51,13 +51,13 @@ PR's (pull-requests) should be submitted to this tree.
 
 ###### :beer: Buying me a cold beer is a simple way to say thank you.
 
-[![PayPal donate](https://cloud.githubusercontent.com/assets/3521959/8350400/42227836-1b1d-11e5-86ca-b9196a141ab0.png "Buy me a cold beer")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MEEL9KWN5NFD2)
+[![PayPal donate](http://git.io/vRgAU "Buy me a cold beer")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MEEL9KWN5NFD2)
 
 ###### :memo: Notes:
-Nothing is overwritten in the default skin. This is fully and immediately reversible should you not like the changes.
+This is fully and immediately reversible should you not like the changes, simply change theme to default.
 For systems like android/similar you will need to have a way to write to system folders. i.e. root
 
-***Compatibility:*** These themes are fully compatible with any Confluence skin versions and most skin mods out there. Some skin mods use these themes as default.  
+***Compatibility:*** These themes are fully compatible with any Confluence skin versions and most skin mods out there. Some skin mods use these themes as default.
 Feel free to download the themes from here to ensure you are using the most up-to-date textures for your preferred skin mods.
 
 ###### :hand: Recruiting
@@ -65,29 +65,29 @@ Currently looking for some person(s) to help with small C++/python/skin improvem
 
 ###### :speech_balloon: Contact
 
-- [**Open a ticket here**](https://github.com/uNiversaI/skin.confluence/issues "Open a ticket here") if you have an issue    
-- [**Goto Kodi.tv/forums themes thread**](http://forum.kodi.tv/showthread.php?tid=203291 "goto Kodi.tv/forums themes thread") for feedback, suggestions or discussions.     
-- Join [#kodi](https://webchat.freenode.net?nick=revamped-fan&channels=%23kodi&prompt=1 "join #kodi") or [##wimmm](https://webchat.freenode.net?nick=revamped-fan&channels=%23%23wimm&prompt=1 "join #wimm") on **IRC:** freenode.net 
+- [**Open a ticket here**](https://github.com/un1versal/revamped.themes/issues/new "Open a ticket here") if you have an issue.
+- Goto [**Kodi.tv/forums Revamp'ed themes thread**](http://forum.kodi.tv/showthread.php?tid=203291 "goto Kodi.tv/forums Revamp'ed themes thread") for feedback, suggestions or discussions.
+- Join [#kodi](https://webchat.freenode.net?nick=revamped-fan&channels=%23kodi&prompt=1 "join #kodi") or [##wimmm](https://webchat.freenode.net?nick=revamped-fan&channels=%23%23wimm&prompt=1 "join #wimm") on **IRC:** freenode.net
 
 ######  :arrow_down: Downloads
 
-- [**Click here**] (https://github.com/uNiversaI/skin.confluence/releases) to download theme and see the instructions on release page     
-- [**Click here**] (https://github.com/uNiversaI/revamp-confluence-psds "Download PSD Sources") to download PSD sources     
-- [**Click here**] (https://github.com/uNiversaI/skin.confluence/tree/texture_packer "Download Texture Packer") to download Texture packer
+- [**Click here**] (https://github.com/un1versal/skin.confluence/releases) to download theme and see the instructions on release page
+- [**Click here**] (https://github.com/un1versal/revamp-confluence-psds "Download PSD Sources") to download the .PSD sources
+- [**Click here**] (https://github.com/un1versal/skin.confluence/tree/texture_packer "Download Texture Packer") to download Texture packer
 
-###### Automatic donwloader and installer for Linux
+###### Automatic downloader and installer for Linux
 
-- [**Click here**] (https://gist.github.com/uNiversaI/f00474cae9c16d3f1a51 "Revamp'ed theme downloader") To visit the Github Gist page for the script and download latest version.
+- [**Click here**] (https://gist.github.com/un1versal/f00474cae9c16d3f1a51 "Revamp'ed theme downloader") To visit the script download page and grab the latest version.
 
 #### Licensing
 
-Revamp / Revamped themes and corresponding PSD sources are released under.
+Revamp / Revamped themes + uncompressed sources and corresponding PSD sources are released under.
 
 ```
-   ___   ___  __         ____  
-  / _ \ / _ \/ /  __   _|___ \ 
+   ___   ___  __         ____
+  / _ \ / _ \/ /  __   _|___ \
  / /_\// /_)/ /   \ \ / / __) |
-/ /_\\/ ___/ /___  \ V / / __/ 
+/ /_\\/ ___/ /___  \ V / / __/
 \____/\/   \____/   \_/ |_____|
 
 ```
