@@ -1,6 +1,6 @@
 ##Confluence Revamp'ed themes for Kodi
 
-These are themes for the default skin Confluence for Kodi from v17 onwards only.
+These are themes for the skin Confluence for Kodi from v17 onwards only.
 The idea behind this theme is to update the images while improving the overall "look & feel" a job that was started to fix pixelated images, precision issues (half pixels), colour matching, elements alignments/centering and sizing.
 
 It was originally intended to be a full replacement for the default theme, but as it happens it turned up it was simpler to make it a theme.
@@ -47,8 +47,9 @@ You are free to use these themes in your project or derivative works, it would b
 
 ###### :wrench: Contributing
 
-I would be honoured and extremely thankful if you decided to submit pull-request back for the improvements and changes you make using the PSD sources or that you made yourself.
-PR's (pull-requests) should be submitted to this tree.
+I would be honoured and thankful if you decided to submit pull-request back for the improvements and changes you make using the PSD sources or that you made yourself.
+
+PSD's: PR's [pull requests](https://help.github.com/articles/using-pull-requests/) submitted to [un1versal/revamp-confluence-psds](https://github.com/un1versal/revamp-confluence-psds)
 
 ###### :beer: Buying me a cold beer is a simple way to say thank you.
 
@@ -58,7 +59,7 @@ PR's (pull-requests) should be submitted to this tree.
 This is fully and immediately reversible should you not like the changes, simply change theme to default.
 For systems like android/similar you will need to have a way to write to system folders. i.e. root
 
-***Compatibility:*** These themes are fully compatible with any Confluence skin versions and most skin mods out there. Some skin mods use these themes as default.
+***Compatibility:*** These themes are fully compatible with any Confluence skin and most skin mods out there. Some skin mods and [MrMC](https://github.com/MrMC/mrmc/commits/mrmc-release_1.3.0) since v1.3.0 use these textures as default.
 Feel free to download the themes from here to ensure you are using the most up-to-date textures for your preferred skin mods.
 
 ###### :hand: Recruiting
