@@ -16,7 +16,7 @@ This branch contains only counterpart uncompressed textures for the Revamp-ed th
 
 ###### Automatic downloader and installer for Linux
 
-- [**Click here**] (https://gist.github.com/un1versal/f00474cae9c16d3f1a51 "Revamp'ed theme downloader") To visit the Github Gist page for the script and download latest version.
+- [**Click here**] (https://gist.github.com/un1versal/f00474cae9c16d3f1a51 "Revamp'ed theme downloader") To visit the GitHub Gist page for the script and download latest version.
 
 #### Licensing
 
