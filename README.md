@@ -27,6 +27,7 @@ New HDD icons | :x: | :heavy_check_mark:
 New skin background | :x: | :heavy_check_mark:
 New playlist/passport audio icons | :x: | :heavy_check_mark:
 New default addon folder icons | :x: | :heavy_check_mark:
+New overlay watched / watching icons | :x: | :heavy_check_mark:
 Refreshed folder icons | :x: | :heavy_check_mark:
 Refreshed kay icons error/warning/information | :x: | :heavy_check_mark:
 Refreshed sublang/audiolang flags | :x: | :heavy_check_mark:
